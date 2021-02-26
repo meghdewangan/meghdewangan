@@ -1,4 +1,4 @@
 ### Hi there 👋 I'm Meghraj Dewangan!
 
 * 💻 I am an open source contributor
-* 📖 I like to read
+* 📖 I like to learn latest technology
